@@ -1,0 +1,15 @@
+N:\ШАГ РПО\C#\Class_Student\bin\Debug\net6.0\Class_Student.exe
+N:\ШАГ РПО\C#\Class_Student\bin\Debug\net6.0\Class_Student.deps.json
+N:\ШАГ РПО\C#\Class_Student\bin\Debug\net6.0\Class_Student.runtimeconfig.json
+N:\ШАГ РПО\C#\Class_Student\bin\Debug\net6.0\Class_Student.dll
+N:\ШАГ РПО\C#\Class_Student\bin\Debug\net6.0\Class_Student.pdb
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.csproj.AssemblyReference.cache
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.GeneratedMSBuildEditorConfig.editorconfig
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.AssemblyInfoInputs.cache
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.AssemblyInfo.cs
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.csproj.CoreCompileInputs.cache
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.dll
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\refint\Class_Student.dll
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.pdb
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\Class_Student.genruntimeconfig.cache
+N:\ШАГ РПО\C#\Class_Student\obj\Debug\net6.0\ref\Class_Student.dll
